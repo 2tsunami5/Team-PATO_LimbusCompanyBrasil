@@ -1,4 +1,4 @@
-# Team PATO - Limbus Company Brasil
+# Team PATO - Limbus Company Brasil (LCBPATO)
 Tradução brasileira de Limbus Company
 
 # Introdução

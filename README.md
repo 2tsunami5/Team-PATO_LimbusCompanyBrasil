@@ -27,7 +27,7 @@ Versão atual: v1.74.0
 Baixe os arquivos
 - Crie uma pasta chamada "Lang" em "Limbus Company\LimbusCompany_Data"
 - Coloque os arquivos dentro da pasta
-- Abra Limbus Company e clique na opção "Choose Custom Language" e selecione "Português-Brasil"
+- Abra Limbus Company e clique na opção "Select Custom Language" e selecione "Português-Brasil"
 - Reinicie o jogo
 
 # Roteiro de Lançamento da Tradução

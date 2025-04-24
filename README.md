@@ -14,10 +14,13 @@ Devido a como a Project Moon fez os arquivos de Limbus Company, a tradução ser
 Os arquivos são muito bagunçados e totalmente desorganizados, o que prejudica e atrapalha bastante como a tradução é feita. Uma adição que, por causa disso, a chance de algo quebrar no jogo é bem alta. Se notar alguma coisa fora do lugar, algum texto quebrado ou algum softlock, nos avisem seja no: Bluesky, X/Twitter, Email ou aqui no guia.
 
 __Como irei saber que saiu tradução nova?__
-R: Faremos questão de divulgar em todas as áreas possíveis, seja nas redes sociais, site e até mesmo no guia.
+__R:__ Faremos questão de divulgar em todas as áreas possíveis, seja nas redes sociais, site, [Discord](https://discord.gg/G97Y6ESfzD) e até mesmo no guia.
 
 __Por que a fonte está diferente do Oficial e alguns textos não estão traduzidos?__
-R: Devido as limitações do Custom Language, só podemos usar uma fonte para todo o texto do jogo, levando a perda do texto customizável e uma aparência mais feia em comparação com a Oficial. Outra limitação é a própria Project Moon ter deixado alguns impossíveis de traduzir, o que leva inconsistência nos textos mesmo estando traduzido. Conforme as atualizações ocorrerem, ela pode tirar ou dar essa liberdade de traduzir esses textos.
+__R:__ Devido as limitações do Custom Language, só podemos usar uma fonte para todo o texto do jogo, levando a perda do texto customizável e uma aparência mais feia em comparação com a Oficial. Outra limitação é a própria Project Moon ter deixado alguns impossíveis de traduzir, o que leva inconsistência nos textos mesmo estando traduzido. Conforme as atualizações ocorrerem, ela pode tirar ou dar essa liberdade de traduzir esses textos.
+
+__Alguma possibilidade de lançarem para o mobile?__
+__R:__ Não, para ter suporte para o mobile, nossa única opção é tentar convencer a Project Moon oficializar a tradução. Qualquer outro meio seja o uso do .apk é passível de ban.
 
 <strike>Muito obrigado Project Moon por dificultar nosso trabalho de inúmeras maneiras</strike>
 
@@ -26,7 +29,7 @@ Versão atual: v1.74.0
 # Como Baixar
 Baixe os arquivos
 - Crie uma pasta chamada "Lang" em "Limbus Company\LimbusCompany_Data"
-- Coloque os arquivos dentro da pasta
+- Extraia o .zip "LCBPATO" e coloque os arquivos "Português-Brasil" e "config.json" dentro da pasta "Lang"
 - Abra Limbus Company e clique na opção "Select Custom Language" e selecione "Português-Brasil"
 - Reinicie o jogo
 

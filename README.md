@@ -27,9 +27,9 @@ __R:__ Não, para ter suporte para o mobile, nossa única opção é tentar conv
 
 <strike>Muito obrigado Project Moon por dificultar nosso trabalho de inúmeras maneiras</strike>
 
-__Versão atual do Limbus Company: v1.74.1__
+__Versão atual do Limbus Company: v1.75.0__
 
-__Versão da tradução: v0.1.1__
+__Versão da tradução: v0.1.2__
 
 # Como Baixar
 Baixe os arquivos

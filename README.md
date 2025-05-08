@@ -25,11 +25,11 @@ __Alguma possibilidade de lançarem para o mobile?__
 
 __R:__ Não, para ter suporte para o mobile, nossa única opção é tentar convencer a Project Moon oficializar a tradução. Qualquer outro meio seja o uso do .apk é passível de ban.
 
+__Não gostei da fonte atual. Como faço para substituir?__
+
+__R:__ No [team_resources](https://github.com/2tsunami5/Team-PATO_LimbusCompanyBrasil/tree/LCBPATO/team_resources/font) tem ambas as fontes, baixe a qual preferir e substitua no "LimbusCompany_Data\Lang\Português-Brasil\Font" nas duas pastas "Context" e "Title"
+
 <strike>Muito obrigado Project Moon por dificultar nosso trabalho de inúmeras maneiras</strike>
-
-__Versão atual do Limbus Company: v1.75.0__
-
-__Versão da tradução: v0.1.2__
 
 # Como Baixar
 <ins>1ª Opção:</ins>

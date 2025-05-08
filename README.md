@@ -15,7 +15,7 @@ Os arquivos são muito bagunçados e totalmente desorganizados, o que prejudica 
 
 __Como irei saber que saiu tradução nova?__
 
-__R:__ Faremos questão de divulgar em todas as áreas possíveis, seja nas redes sociais, site, [Discord](https://discord.gg/G97Y6ESfzD) e até mesmo no guia.
+__R:__ Faremos questão de divulgar em todas as áreas possíveis, seja nas redes sociais e [Discord](https://discord.gg/G97Y6ESfzD). **Recomendamos usar o [LimbusLocalizationManager](https://github.com/kimght/LimbusLocalizationManager/)**
 
 __Por que a fonte está diferente do Oficial e alguns textos não estão traduzidos?__
 
@@ -32,7 +32,18 @@ __Versão atual do Limbus Company: v1.75.0__
 __Versão da tradução: v0.1.2__
 
 # Como Baixar
-Baixe os arquivos
+<ins>1ª Opção:</ins>
+
+Baixe o LimbusLocalizationManager no repositório: [LimbusLocalizationManager](https://github.com/kimght/LimbusLocalizationManager/). Releases >  LimbusLocalizationManager_#.#.#_x64-setup.exe 
+
+- Abra o launcher e clique no ícone que parece um mapa, selecione a tradução "LCBPATO" e clique no sinal de "+". O launcher possui suporte para o português, caso queira, clique no ícone de engrenagem e depois "interface language" e selecione "Português"
+- Clique no ícone de casa e aperte o botão "atualizar & jogar"
+- O launcher sempre irá checar se há alguma atualização nova do [Releases](https://github.com/2tsunami5/Team-PATO_LimbusCompanyBrasil/releases/) e o jogo irá abrir automaticamente com a tradução selecionada
+
+<ins>2ª Opção:</ins>
+
+Baixe os arquivos do repositório: [Releases](https://github.com/2tsunami5/Team-PATO_LimbusCompanyBrasil/releases/)
+
 - Crie uma pasta chamada "Lang" em "Limbus Company\LimbusCompany_Data"
 - Extraia o .zip "LCBPATO" e coloque os arquivos "Português-Brasil" e "config.json" dentro da pasta "Lang"
 - Abra Limbus Company e clique na opção "Select Custom Language" e selecione "Português-Brasil"

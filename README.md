@@ -101,11 +101,21 @@ __R:__ Termos não traduzidos têm-se referências culturais de outros idiomas, 
 __Por que termos como Agência, Becos, Subúrbios estão trocados?__
 
 __R:__ O universo no qual se passa os jogos Lobotomy Corporation, Library of Ruina e Limbus Company possuem um conceito geográfico na Cidade que é diferente das definições na qual temos costume no dia a dia, o que pode causar confusão à primeira vista.
+
 __* Backstreets - Becos:__ Por mais que o termo Subúrbios possa se encaixar melhor, os Becos, situados mais nas vielas, ficam dentro da Cidade, aos arredores dos Ninhos, junto com as Agências e os Sicários que atuam entre elas.
+
 __* Outskirts - Subúrbios:__ Refere-se a parte de fora da Cidade. Uma terra sem lei e deserta com inúmeros perigos, sendo um local evitado por vários habitantes da Cidade.
+
 __* Office - Agência:__ Na Cidade, as Agências localizadas nos Becos, que ficam aos arredores dos Ninhos, operam sobre sua própria responsabilidade e mando, devendo respeitar as diretrizes estabelecidas pelo estabelecimento principal que no caso seria os Ninhos.
+
+__Por que Sinner virou Condenado? Não seria Pecador devido aos Pecados?__
+
+__R:__ O termo "Pecador" não está errado, mas existe um termo no nosso idioma que se encaixa melhor. No Coreano, o termo (수감자) significa tanto "Prisioneiro" como "Condenado". Enquanto para ''Pecador'', o termo seria (죄인).
+
+Decidimos alterar para manter o mais fiel possível no contexto de Limbus Company e suas referências literárias. Ainda mais quando conceitos são usados, tais como: Condenado ao Inferno ou Condenado à prisão.
 
 __Por que o termo usado pra Fixer é Sicário? Sicário não seria matadores de aluguel?__
 
 __R:__ A decisão do termo "Sicário" foi uma escolha que seguimos no contexto de Lobotomy Corporation e que segue nas nossas traduções das obras da Project Moon, visto a temática recorrente do uso da Kabbalah Hermética e na Cabala Judaica.
+
 O termo Sicário se refere a zelotas empregados que tentavam expulsar romanos e simpatizantes da Judeia, muitas vezes usando de violência, sequestros, assassinatos e agitação política. Embora não tenha um significado muito próximo com Fixer, este que não tem uma tradução para PT-BR, onde em seu significado no continente Asiático, especificamente na Coréia do Sul e Filipinas, se trata de um termo mais voltado para funcionário público contratado para resolver problemas burocráticos (geralmente dentro de uma legalidade dúbia). A nossa decisão foi de trabalhar com essa ideia de "contratado para fazer o trabalho sujo" também dentro de um contexto de faz-tudo, e assim Sicário serviu como uma luva em Lobotomy Corp.
